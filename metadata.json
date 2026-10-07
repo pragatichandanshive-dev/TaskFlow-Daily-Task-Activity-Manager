@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Daily Task & Activity Manager",
+  "description": "A modern, fast, clean, and intuitive mobile daily task and activity manager with schedule timeline, quick notes, reminders, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
